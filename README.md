@@ -24,11 +24,3 @@ to do list/
         ├── checked.png
         └── unchecked.png
 ```
-
-## How to Run the App
-
-Since this is a client-side application built with pure HTML/CSS/JS, no installation or build tools are required.
-
-1. Clone or download this repository to your local machine.
-2. Locate [index.html](file:///c:/Users/jaysu_84yqwhz/Projects/to%20do%20list/index.html).
-3. Double-click the file to open it in any modern web browser (Chrome, Edge, Firefox, Safari, etc.).

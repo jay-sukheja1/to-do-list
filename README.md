@@ -1,6 +1,8 @@
 # Simple To-Do List App
 
-A responsive, lightweight, and modern web-based To-Do List application. This project is built using pure HTML, CSS, and Vanilla JavaScript with local storage persistence.
+A responsive, lightweight, and modern web-based To-Do List application. This project is built using pure HTML, CSS, and Vanilla JavaScript with local storage persistence.  
+  
+  ## [Try it here](https://jay-sukheja1.github.io/to-do-list/)
 
 ## Features
 
